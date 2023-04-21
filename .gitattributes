@@ -117,3 +117,4 @@
 *.tar lfs
 C:/Users/filip/VR[[:space:]]PROJECT/DOMASNA_1/DOMASNA_1_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
 DOMASNA_1/DOMASNA_1_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+DOMASNA_1_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
